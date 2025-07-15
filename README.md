@@ -15,6 +15,7 @@
 ## 💼 Habilidades Técnicas
 
 - **Lenguajes:**
+
 |              |                                                                                                                               |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Python       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                        |
@@ -36,6 +37,7 @@
 | Jira             | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)                          |
 
 - **Bases de datos:**
+
 |              |                                                                                                                               |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------|
 | MySQL        | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)                        |
@@ -44,6 +46,7 @@
 | SQLite       | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)                  |
 
 - **Otros:**
+
 |                      |                                                                                                                                                 |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Git                  | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)                                             |
