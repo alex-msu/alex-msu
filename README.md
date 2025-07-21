@@ -34,12 +34,15 @@
 
 ## 📌 Proyectos Destacados
 
+🔹 [`rain-predictor-webapp`](https://github.com/alex-msu/rain-predictor-webapp)  
+*Predicción de Lluvia en Australia con Machine Learning y WebApp en Flask.*
+
 ---
 
 ## 🌐 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexismartinezs/)
-- 📁 [Mi CV](https://linkatuCV.com)
+- 📁 [Mi CV](https://alex-msu.carrd.co)
 - 📨 [Email](mailto:mailto:alexis.martinez.6584@gmail.com)
 
 ---
