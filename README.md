@@ -34,10 +34,13 @@
 
 ## 📌 Proyectos Destacados
 
-🔹 [`churn-predictor-mlops`](https://github.com/alex-msu/churn-predictor-mlops)  
+🔹 [`anomaly-log-detector`](https://github.com/alex-msu/anomaly-log-detector)
+*Detección de Anomalías en HDFS — Rápido, Reproducible y Amigable con CPU*
+
+🔹 [`churn-predictor-mlops`](https://github.com/alex-msu/churn-predictor-mlops)
 *Análisis de Retención de Clientes (churn) con Prácticas de MLops y Utilización de MLflow*
 
-🔹 [`rain-predictor-webapp`](https://github.com/alex-msu/rain-predictor-webapp)  
+🔹 [`rain-predictor-webapp`](https://github.com/alex-msu/rain-predictor-webapp)
 *Predicción de Lluvia en Australia con Machine Learning y WebApp en Flask.*
 
 ---
